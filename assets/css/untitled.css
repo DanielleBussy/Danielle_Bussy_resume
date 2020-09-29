@@ -1,0 +1,9 @@
+.heading {
+  text-align: center;
+}
+
+div.fixed {
+  position: fixed;
+  bottom: 0;
+}
+
